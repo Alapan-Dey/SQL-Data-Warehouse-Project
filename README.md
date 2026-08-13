@@ -33,8 +33,6 @@ This project involves:
 
 ---
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
-
 
 
 
